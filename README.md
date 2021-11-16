@@ -24,3 +24,5 @@ git checkout main // 기본 브랜치가 main인 경우
 git checkout -b 브랜치이름
 ex) git checkout -b apply-feedback
 ```
+
+* 기존 요구사항은 랜덤숫자에 따라서 turn이 지날 때마다 전진인지 판단하는데, 요구사항을 오해해서 랜덤으로 몇 칸 전진하는지를 판단하는 것으로 변경해서 개발함.
